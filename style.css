@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+h1{
+    color:darkred;
+    font-size: 80px;
+}
+a{
+    background-color: darkred;
+    color: white;
+    font-size: 40px;
+    margin: 10px;
+}

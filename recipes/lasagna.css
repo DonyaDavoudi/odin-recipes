@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 180, 180);
+}
+h1{
+    font-size: 80px;
+}
+
+img{
+    width:300px;
+    height: auto;
+}
+p{
+    width: 600px;
+}
+
